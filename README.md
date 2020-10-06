@@ -1,7 +1,6 @@
 # Easy RPC
 > An easy rpc applcation for discord
 
-[![Downloads Stats][npm-downloads]][npm-url]
 
 
 ## Installation
