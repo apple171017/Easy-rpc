@@ -1,5 +1,5 @@
 # Easy RPC
-> An easy rpc applcation for discord
+> An easy rpc application for discord
 
 
 
