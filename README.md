@@ -1,4 +1,4 @@
-# Easy RPC
+# Simple RPC
 > An easy rpc application for discord
 
 
